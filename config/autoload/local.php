@@ -12,8 +12,7 @@
  * credentials from accidentally being committed into version control.
  */
 
-//userName: Evan, Password: Hank2001
-//test test
+//userName: Evan, Password: Hank2001 
 
 return [
     'db' => [
