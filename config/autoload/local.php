@@ -12,12 +12,14 @@
  * credentials from accidentally being committed into version control.
  */
 
+//userName: Evan, Password: Hank2001
+
+
 return [
     'db' => [
         'driver' => 'Pdo',
         'dsn'    => 'mysql:dbname=firecms;host=localhost;charset=utf8',
-        //'dbname' => 'aurora-laminas',
-        'username' => 'Evan',
-        'password' => 'Hank2001'
+        'username' => 'root',
+        'password' => ''
     ],
 ];

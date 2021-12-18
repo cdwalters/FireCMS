@@ -12,7 +12,8 @@
  * file.
  */
 
-return [    
+return [   
+    
     'session' => [
     //         'config' => [
         //             'class' => \User\Model\UsersSessionConfig::class,
